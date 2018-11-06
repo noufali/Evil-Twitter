@@ -1,0 +1,7 @@
+module.exports = {
+	consumer_key:         'RRwNqYIW2RjTmWORhVTFc29cl',
+	consumer_secret:      'R8DMQ2gxCaFqLjU9jqSJvA10mSZJfasoMNWAQQFtuJbV7lGTK2',
+	access_token:         '918644292347924480-gkuWVn3nokkFmgD48Ki7NyL2VmQ0RoN',
+	access_token_secret:  'eOsrwsYj7YIbKXP0OCv1zMdUFYeGMR8X7RrKnIfKKvRLb',
+	timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
+};
